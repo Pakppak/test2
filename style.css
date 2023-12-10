@@ -1,5 +1,5 @@
 @charset "utf-8"; @import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:300,500,700&display=swap'); html {
-    cursor: url(../images/mouse.png), auto
+    cursor: url(https://pakppak.github.io/test2/images/mouse.png), auto
 }
 
 body {
@@ -67,7 +67,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
 #home {
     width: 100%;
     height: 960px;
-    background-image: url(../images/main_banner.jpg);
+    background-image: url(https://pakppak.github.io/test2/images/main_banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -116,7 +116,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     width: 390px;
     height: 194px;
     text-indent: -9999px;
-    background-image: url(../images/name_peach.png);
+    background-image: url(https://pakppak.github.io/test2//images/name_peach.png);
 }
 
 /* section - aboutme */
@@ -159,7 +159,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     width: 400px;
     height: 430px;
     text-indent: -9999px;
-    background-image: url(../images/about_me.jpg);
+    background-image: url(https://pakppak.github.io/test2/images/about_me.jpg);
 }
 
 #aboutme>.content1-left>.about_bg {
@@ -213,7 +213,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     width: 21px;
     height: 41px;
     text-indent: -9999px;
-    background-image: url(../images/sprite.png);
+    background-image: url(https://pakppak.github.io/test2/images/sprite.png);
 }
 
 #aboutme>.content1-right>.profile>.prev {
@@ -315,22 +315,22 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
 #skills>.skill>li:nth-child(1) {
     margin-left: 0;
     width: 85px;
-    background-image: url(../images/skills_1.png);
+    background-image: url(https://pakppak.github.io/test2/images/skills_1.png);
 }
 
 #skills>.skill>li:nth-child(2) {
     width: 85px;
-    background-image: url(../images/skills_2.png);
+    background-image: url(https://pakppak.github.io/test2/images/skills_2.png);
 }
 
 #skills>.skill>li:nth-child(3) {
     width: 85px;
-    background-image: url(../images/skills_3.png);
+    background-image: url(https://pakppak.github.io/test2/images/skills_3.png);
 }
 
 #skills>.skill>li:nth-child(4) {
     width: 270px;
-    background-image: url(../images/skills_4.png);
+    background-image: url(https://pakppak.github.io/test2/images/skills_4.png);
 }
 
 #skills>.tool {
@@ -348,31 +348,31 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
 
 #skills>.tool>li:nth-child(1) {
     margin-left: 0;
-    background-image: url(../images/skills_tool_1.png);
+    background-image: url(https://pakppak.github.io/test2/images/skills_tool_1.png);
 }
 
 #skills>.tool>li:nth-child(2) {
-    background-image: url(../images/skills_tool_2.png);
+    background-image: url(https://pakppak.github.io/test2/images/skills_tool_2.png);
 }
 
 #skills>.tool>li:nth-child(3) {
-    background-image: url(../images/skills_tool_3.png);
+    background-image: url(https://pakppak.github.io/test2/images/skills_tool_3.png);
 }
 
 #skills>.tool>li:nth-child(4) {
-    background-image: url(../images/skills_tool_4.png);
+    background-image: url(https://pakppak.github.io/test2/images/skills_tool_4.png);
 }
 
 #skills>.tool>li:nth-child(5) {
-    background-image: url(../images/skills_tool_5.png);
+    background-image: url(https://pakppak.github.io/test2/images/skills_tool_5.png);
 }
 
 #skills>.tool>li:nth-child(6) {
-    background-image: url(../images/skills_tool_6.png);
+    background-image: url(https://pakppak.github.io/test2/images/skills_tool_6.png);
 }
 
 #skills>.tool>li:nth-child(7) {
-    background-image: url(../images/skills_tool_7.png);
+    background-image: url(https://pakppak.github.io/test2/images/skills_tool_7.png);
 }
 
 /* section - portfolio + popup gallery*/
@@ -506,31 +506,31 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     width: 614px;
     height: 384px;
     text-indent: -9999px;
-    background-image: url(../images/portfolio_sampyo.png);
+    background-image: url(https://pakppak.github.io/test2/images/portfolio_sampyo.png);
 }
 
 #portfolio>.container>.view>li:nth-child(2)>.view_img {
-    background-image: url(../images/portfolio_line.png);
+    background-image: url(https://pakppak.github.io/test2/images/portfolio_line.png);
 }
 
 #portfolio>.container>.view>li:nth-child(3)>.view_img {
-    background-image: url(../images/portfolio_clio.png);
+    background-image: url(https://pakppak.github.io/test2/images/portfolio_clio.png);
 }
 
 #portfolio>.container>.view>li:nth-child(4)>.view_img {
-    background-image: url(../images/portfolio_090.png);
+    background-image: url(https://pakppak.github.io/test2/images/portfolio_090.png);
 }
 
 #portfolio>.container>.view>li:nth-child(5)>.view_img {
-    background-image: url(../images/portfolio_blue.png);
+    background-image: url(https://pakppak.github.io/test2/images/portfolio_blue.png);
 }
 
 #portfolio>.container>.view>li:nth-child(6)>.view_img {
-    background-image: url(../images/portfolio_howon.png);
+    background-image: url(https://pakppak.github.io/test2/images/portfolio_howon.png);
 }
 
 #portfolio>.container>.view>li:nth-child(7)>.view_img {
-    background-image: url(../images/portfolio_peach.png);
+    background-image: url(https://pakppak.github.io/test2/images/portfolio_peach.png);
 }
 
 #portfolio>.container>.view>li>a {
@@ -616,7 +616,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     height: 360px;
     margin-right: 10px;
     line-height: 360px;
-    background-image: url(../images/design_3_cardnews.jpg);
+    background-image: url(https://pakppak.github.io/test2/images/design_3_cardnews.jpg);
 }
 
 #design>.container>ul>li>.web>li:nth-child(2) {
@@ -624,14 +624,14 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     height: 360px;
     margin-right: 10px;
     line-height: 360px;
-    background-image: url(../images/design_3_eventpage.jpg);
+    background-image: url(https://pakppak.github.io/test2/images/design_3_eventpage.jpg);
 }
 
 #design>.container>ul>li>.web>li:nth-child(3) {
     width: 315px;
     height: 360px;
     line-height: 360px;
-    background-image: url(../images/design_3_detailpage1.jpg);
+    background-image: url(https://pakppak.github.io/test2/images/design_3_detailpage1.jpg);
 }
 
 #design>.container>ul>li>.web>li:nth-child(4) {
@@ -639,7 +639,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     height: 160px;
     margin: 10px 10px 0 0;
     line-height: 160px;
-    background-image: url(../images/design_3_banner.jpg);
+    background-image: url(https://pakppak.github.io/test2/images/design_3_banner.jpg);
     ;}
 
 #design>.container>ul>li>.web>li:nth-child(5) {
@@ -647,7 +647,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     height: 160px;
     margin-top: 10px;
     line-height: 160px;
-    background-image: url(../images/design_3_detailpage2.jpg);
+    background-image: url(https://pakppak.github.io/test2/images/design_3_detailpage2.jpg);
 }
 /* 
 #design>.container>ul>li>.major>li:nth-child(1) {
@@ -655,7 +655,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     height: 530px;
     margin-right: 10px;
     line-height: 360px;
-    background-image: url(../images/design_1_poster.jpg);
+    background-image: url(https://pakppak.github.io/test2/images/design_1_poster.jpg);
 }
 
 #design>.container>ul>li>.major>li:nth-child(2) {
@@ -663,14 +663,14 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     height: 282px;
     margin-right: 10px;
     line-height: 282px;
-    background-image: url(../images/design_1_CI.jpg);
+    background-image: url(https://pakppak.github.io/test2/images/design_1_CI.jpg);
 }
 
 #design>.container>ul>li>.major>li:nth-child(3) {
     width: 325px;
     height: 282px;
     line-height: 282px;
-    background-image: url(../images/design_1_package.jpg);
+    background-image: url(https://pakppak.github.io/test2/images/design_1_package.jpg);
 }
 
 #design>.container>ul>li>.major>li:nth-child(4) {
@@ -679,7 +679,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     height: 238px;
     margin-top: 10px;
     line-height: 238px;
-    background-image: url(../images/design_1_web.jpg);
+    background-image: url(https://pakppak.github.io/test2/images/design_1_web.jpg);
 }
 
 #design>.container>ul>li>.graphic>li:nth-child(1) {
@@ -687,7 +687,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     height: 260px;
     margin-right: 10px;
     line-height: 260px;
-    background-image: url(../images/design_2_package.jpg);
+    background-image: url(https://pakppak.github.io/test2/images/design_2_package.jpg);
 }
 
 #design>.container>ul>li>.graphic>li:nth-child(2) {
@@ -695,7 +695,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     height: 260px;
     margin-right: 10px;
     line-height: 260px;
-    background-image: url(../images/design_2_infographic1.jpg);
+    background-image: url(https://pakppak.github.io/test2/images/design_2_infographic1.jpg);
 }
 
 #design>.container>ul>li>.graphic>li:nth-child(3) {
@@ -703,7 +703,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     width: 370px;
     height: 530px;
     line-height: 530px;
-    background-image: url(../images/design_2_infographic2.jpg);
+    background-image: url(https://pakppak.github.io/test2/images/design_2_infographic2.jpg);
 }
 
 #design>.container>ul>li>.graphic>li:nth-child(4) {
@@ -711,7 +711,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     height: 260px;
     margin: 10px 10px 0 0;
     line-height: 260px;
-    background-image: url(../images/design_2_pattern.jpg);
+    background-image: url(https://pakppak.github.io/test2/images/design_2_pattern.jpg);
 }
 
 #design>.container>ul>li>.graphic>li:nth-child(5) {
@@ -719,7 +719,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     height: 260px;
     margin: 10px 10px 0 0;
     line-height: 260px;
-    background-image: url(../images/design_2_BI.jpg);
+    background-image: url(https://pakppak.github.io/test2/images/design_2_BI.jpg);
 } */
 
 #design>.container>ul>li>.gallery>li>a {
@@ -744,7 +744,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     width: 21px;
     height: 41px;
     text-indent: -9999px;
-    background-image: url(../images/sprite.png);
+    background-image: url(https://pakppak.github.io/test2/images/sprite.png);
 }
 
 #design>.prev {
@@ -822,7 +822,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     margin-right: -985px;
     width: 800px;
     height: 375px;
-    background-image: url(../images/contact_banner.jpg);
+    background-image: url(https://pakppak.github.io/test2/images/contact_banner.jpg);
 }
 
 #contact>.container {
