@@ -5,6 +5,7 @@
 body {
     font-family: 'Noto Sans KR',sans-serif;
     color: #2b2b2b;
+    /* height: 500; */
 }
 
 #wrap {
@@ -559,7 +560,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
 #design {
     position: relative;
     width: 1200px;
-    height: 960px;
+    height: 1200px;
     margin: 0 auto;
 }
 
@@ -594,8 +595,8 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     position: absolute;
     top: 0;
     left: 990px;
-    width: 990px;
-    height: 530px;
+    width: 1200px;
+    height: 800px;
     background-color: #fff;
 }
 
@@ -612,16 +613,16 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
 }
 
 #design>.container>ul>li>.web>li:nth-child(1) {
-    width: 380px;
-    height: 360px;
+    width: 315px;
+    height: 196px;
     margin-right: 10px;
     line-height: 360px;
     background-image: url(https://pakppak.github.io/test2/images/design_3_cardnews.jpg);
 }
 
 #design>.container>ul>li>.web>li:nth-child(2) {
-    width: 275px;
-    height: 360px;
+    width: 315px;
+    height: 196px;
     margin-right: 10px;
     line-height: 360px;
     background-image: url(https://pakppak.github.io/test2/images/design_3_eventpage.jpg);
@@ -629,18 +630,18 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
 
 #design>.container>ul>li>.web>li:nth-child(3) {
     width: 315px;
-    height: 360px;
+    height: 196px;
     line-height: 360px;
     background-image: url(https://pakppak.github.io/test2/images/design_3_detailpage1.jpg);
 }
 
 #design>.container>ul>li>.web>li:nth-child(4) {
-    width: 665px;
-    height: 160px;
+    width: 315px;
+    height: 196px;
     margin: 10px 10px 0 0;
     line-height: 160px;
     background-image: url(https://pakppak.github.io/test2/images/design_3_banner.jpg);
-    ;}
+    }
 
 #design>.container>ul>li>.web>li:nth-child(5) {
     width: 315px;
@@ -649,7 +650,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     line-height: 160px;
     background-image: url(https://pakppak.github.io/test2/images/design_3_detailpage2.jpg);
 }
-/* 
+
 #design>.container>ul>li>.major>li:nth-child(1) {
     width: 370px;
     height: 530px;
@@ -658,7 +659,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     background-image: url(https://pakppak.github.io/test2/images/design_1_poster.jpg);
 }
 
-#design>.container>ul>li>.major>li:nth-child(2) {
+/* #design>.container>ul>li>.major>li:nth-child(2) {
     width: 275px;
     height: 282px;
     margin-right: 10px;
@@ -720,7 +721,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
     margin: 10px 10px 0 0;
     line-height: 260px;
     background-image: url(https://pakppak.github.io/test2/images/design_2_BI.jpg);
-} */
+} */ */
 
 #design>.container>ul>li>.gallery>li>a {
     display: block;
